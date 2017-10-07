@@ -3,6 +3,7 @@
 How to start
 
 $ git clone https://github.com/AaronBHT/offLine-test-SF
+
 $ cd offLine-test-SF
 
 $ npm install
